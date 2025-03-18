@@ -32,6 +32,7 @@ public class EnumEX3 {
 		s.close();
 		System.out.println("hello");
 	
+		System.out.println("PPP");
 	}
 
 }
